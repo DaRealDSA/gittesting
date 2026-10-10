@@ -2,4 +2,4 @@
 Testing out some command line
 
 
-Github is a game changer!!
+Github is the ultimate gamechanger tool for devs
