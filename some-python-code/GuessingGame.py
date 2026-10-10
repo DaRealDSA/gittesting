@@ -8,7 +8,7 @@ user_response = ''
 max_attempts = 4
 
 while guesses < max_attempts:
-    print('Guesses left: '+str(guesses)+'/4')
+    print('Guesses used: '+str(guesses)+'/4')
     try:
         user_response = int(input("Enter a guess: "))
     except ValueError:
@@ -29,5 +29,5 @@ if guessed:
     print("Your good at guessing! The number that I was thinking of was "+str(secret_number))
     
 else:
-    print('Guesses left: '+str(guesses)+'/4')
+    print('Guesses used: '+str(guesses)+'/4')
     print("Unfortunately, You ran out of guesses. Better try well next time :)")
