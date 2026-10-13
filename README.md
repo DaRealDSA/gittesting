@@ -1,4 +1,4 @@
-# *AI written text below*
+### *AI written text below*
 
 # Git Reference Guide
 **Git** is a distributed version control system designed to track changes in source code during software development. It allows multiple developers to work together smoothly without overwriting each other's changes.
